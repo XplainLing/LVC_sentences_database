@@ -16,12 +16,12 @@ Important columns:
 
 | Column | Meaning |
 |---|---|
-| `verb_object` | Full collocation |
+| `verb_object` | phrase containing the verb, object, and determiner where needed  |
 | `verb` | Verb |
 | `object` | Object noun |
-| `has_determiner` | Determiner before object (`no` = none) |
+| `has_determiner` | Determiner occurring before object (`no` = none) |
 | `obj_number` | `sg` or `pl` |
-| `collocation` | Collocation label |
+| `collocation` | whether the expression is a collocation (True or False) |
 | `LF` | Lexical Function label |
 
 ---
