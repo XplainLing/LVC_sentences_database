@@ -49,12 +49,12 @@ Important columns:
 ### Passive sentences
 build_LVC_sentences_short_context.ipynb - 'active sentences'
 
-The passive examples generated with this file are collected in the [datasets](https://github.com/XplainLing/LVC_sentences_database/tree/main/datasets) repo: one file per tense, with or without adverbial modifiers. 
+The passive examples generated with this file are collected in the [English/datasets](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets) repo: one file per tense, with or without adverbial modifiers. 
 
 ### Active sentences - pronouns
 build_LVC_sentences_short_context.ipynb - 'active sentences' 
 
-The active examples generated with this file are collected in the [datasets](https://github.com/XplainLing/LVC_sentences_database/tree/main/datasets) repo: one file per tense, with or without adverbial modifiers. 
+The active examples generated with this file are collected in the [English/datasets](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets) repo: one file per tense, with or without adverbial modifiers. 
 
 ### Active sentences - nouns
 build_LVC_sentences_short_context.ipynb - 'active sentences with nominal subjects' 
