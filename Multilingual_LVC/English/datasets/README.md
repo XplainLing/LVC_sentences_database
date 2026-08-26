@@ -8,7 +8,7 @@ The English sentence dataset contains:
 This repo contains automatically generated sentence datasets based on Light Verb Constructions (LVCs).
 
 **IMPORTANT**: The sentences shared in this folder use pronominal subjects. 
-Scripts to generate sentences with nominal subjects are contained in [LVC_sentences_generator](https://github.com/XplainLing/LVC_sentences_database/tree/main/datasets/LVC_sentences_generator), which also contains all the scripts to reproduce the generation of this dataset.
+Scripts to generate sentences with nominal subjects are contained in [LVC_sentences_generation](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets/sentence_generation), which also contains all the scripts to reproduce the generation of this dataset.
 
 ---
 
