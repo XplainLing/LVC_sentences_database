@@ -1,0 +1,281 @@
+﻿LF,verb_en,keyverb_eng,verb_es,object_es,gen_object_es,num_obj_es,collocation,full_expression
+Oper1,give,advice,dar,consejo,M,sg,T,dar un consejo
+Oper1,provide,aid,dar,ayuda,F,sg,T,dar ayuda
+Oper1,give,answer,dar,respuesta,F,sg,T,dar una respuesta
+Oper1,give,assurance,dar,seguridad,F,sg,T,dar seguridad
+Oper1,give,attention,dar,atención,F,sg,T,dar atención
+Oper1,give,chase,dar,caza,F,sg,T,dar caza
+Oper1,present,concert,dar,concierto,M,sg,T,dar un concierto
+Oper1,give,coverage,dar,cobertura,F,sg,T,dar cobertura
+Oper1,give,credit,dar,crédito,M,sg,T,dar crédito
+Oper1,give,description,dar,descripción,F,sg,T,dar una descripción
+Oper1,give,explanation,dar,explicación,F,sg,T,dar una explicación
+Oper1,_put up_,fight,dar,guerra,F,sg,T,dar guerra
+Oper1,give,indication,dar,indicación,F,sg,T,dar una indicación
+Oper1,make,jump,dar,salto,M,sg,T,dar un salto
+Oper1,give,kick,dar,patada,F,sg,T,dar una patada
+Oper1,give,lecture,dar,conferencia,F,sg,T,dar una conferencia
+Oper1,make,move,dar,paso,M,sg,T,dar un paso
+Oper1,give,order,dar,orden,F,sg,T,dar una orden
+Oper1,give,ovation,dar,ovación,F,sg,T,dar una ovación
+Oper1,give,protection,dar,protección,F,sg,T,dar protección
+Oper1,give,reprieve,dar,respiro,M,sg,T,dar un respiro
+Oper1,give,sentence,dar,sentencia,F,sg,T,dar una sentencia
+Oper1,give,share,dar,parte,F,sg,T,dar parte
+Oper1,give,shelter,dar,cobijo,M,sg,T,dar cobijo
+Oper1,show,sign,dar,señal,F,sg,T,dar una señal
+Oper1,give,speech,dar,discurso,M,sg,T,dar un discurso
+Oper1,give,suggestion,dar,sugerencia,F,sg,T,dar una sugerencia
+Oper1,provide,support,dar,fundamento,M,sg,T,dar fundamento
+Oper1,take,swing,dar,golpe,M,sg,T,dar un golpe
+Oper1,take,turn,dar,giro,M,sg,T,dar un giro
+Oper1,make,announcement,hacer,anuncio,M,sg,T,hacer un anuncio
+Oper1,make,appearance,hacer,aparición,F,sg,T,hacer una aparición
+Oper1,make,attempt,hacer,esfuerzo,M,sg,T,hacer un esfuerzo
+Oper1,make,bequest,hacer,donación,F,sg,T,hacer una donación
+Oper1,take,bow,hacer,reverencia,F,sg,T,hacer una reverencia
+Oper1,conduct,business,hacer,negocio,M,sg,T,hacer un negocio
+Oper1,give,call,hacer,llamada,F,sg,T,hacer una llamada
+Oper1,make,call,hacer,visita,F,sg,T,hacer una visita
+Oper1,make,change,hacer,cambio,M,sg,T,hacer un cambio
+Oper1,make,comeback,hacer,reaparición,F,sg,T,hacer una reaparición
+Oper1,make,comment,hacer,comentario,M,sg,T,hacer un comentario
+Oper1,make,comparison,hacer,comparación,F,sg,T,hacer una comparación
+Oper1,make,compromise,hacer,concesión,F,sg,T,hacer una concesión
+Oper1,make,contribution,hacer,aportación,F,sg,T,hacer una aportación
+Oper1,make,correction,hacer,corrección,F,sg,T,hacer una corrección
+Oper1,make,discovery,hacer,descubrimiento,M,sg,T,hacer un descubrimiento
+Oper1,make,distinction,hacer,distinción,F,sg,T,hacer una distinción
+Oper1,make,estimate,hacer,estimación,F,sg,T,hacer una estimación
+Oper1,take,exercise,hacer,ejercicio,M,sg,T,hacer ejercicio
+Oper1,run,experiment,hacer,experimento,M,sg,T,hacer un experimento
+Oper1,do,favor,hacer,favor,M,sg,T,hacer un favor
+Oper1,make,gesture,hacer,gesto,M,sg,T,hacer un gesto
+Oper1,do,job,hacer,trabajo,M,sg,T,hacer un trabajo
+Oper1,make,joke,hacer,broma,F,sg,T,hacer una broma
+Oper1,perform,magic,hacer,magia,F,sg,T,hacer magia
+Oper1,take,nap,hacer,siesta,F,sg,T,hacer una siesta
+Oper1,make,noise,hacer,ruido,M,sg,T,hacer ruido
+Oper1,make,observation,hacer,consideración,F,sg,T,hacer una consideración
+Oper1,make,offer,hacer,oferta,F,sg,T,hacer una oferta
+Oper1,place,order,hacer,pedido,M,sg,T,hacer un pedido
+Oper1,give,overview,hacer,resumen,M,sg,T,hacer un resumen
+Oper1,strike,pose,hacer,pose,F,sg,T,hacer una pose
+Oper1,make,prediction,hacer,predicción,F,sg,T,hacer una predicción
+Oper1,make,promise,hacer,promesa,F,sg,T,hacer una promesa
+Oper1,make,proposal,hacer,proposición,F,sg,T,hacer una proposición
+Oper1,ask,question,hacer,pregunta,F,sg,T,hacer una pregunta
+Oper1,wait,queue,hacer,cola,F,sg,T,hacer cola
+Oper1,make,recommendation,hacer,recomendación,F,sg,T,hacer una recomendación
+Oper1,make,remark,hacer,observación,F,sg,T,hacer una observación
+Oper1,make,repair,hacer,reparación,F,sg,T,hacer una reparación
+Oper1,make,request,hacer,petición,F,sg,T,hacer una petición
+Oper1,make,return,hacer,regreso,M,sg,T,hacer un regreso
+Oper1,do,search,hacer,búsqueda,F,sg,T,hacer una búsqueda
+Oper1,make,statement,hacer,declaración,F,sg,T,hacer una declaración
+Oper1,make,suggestion,hacer,sugerencia,F,sg,T,hacer una sugerencia
+Oper1,run,test,hacer,prueba,F,sg,T,hacer una prueba
+Oper1,make,tour,hacer,recorrido,M,sg,T,hacer un recorrido
+Oper1,make,trip,hacer,viaje,M,sg,T,hacer un viaje
+Oper1,make,war,hacer,guerra,F,sg,T,hacer la guerra
+Oper1,make,withdrawal,hacer,retirada,F,sg,T,hacer una retirada
+Oper2,receive,criticism,recibir,crítica,F,sg,T,recibir críticas
+Oper2,receive,injury,recibir,lesión,F,sg,T,recibir una lesión
+Oper2,receive,ovation,recibir,ovación,F,sg,T,recibir una ovación
+Oper2,receive,visit,recibir,visita,F,sg,T,recibir una visita
+Oper2,receive,welcome,recibir,bienvenida,F,sg,T,recibir una bienvenida
+Oper1,have,accident,tener,accidente,M,sg,T,tener un accidente
+Oper1,have,argument,tener,discusión,F,sg,T,tener una discusión
+Oper1,hold,assumption,tener,suposición,F,sg,T,tener una suposición
+Oper1,have,attack,tener,ataque,M,sg,T,tener un ataque
+Oper1,have,attitude,tener,disposición,F,sg,T,tener una disposición
+Oper1,have,benefit,tener,beneficio,M,sg,T,tener un beneficio
+Oper1,have,bet,tener,apuesta,F,sg,T,tener una apuesta
+Oper1,have,breakdown,tener,avería,F,sg,T,tener una avería
+Oper1,have,cancer,tener,cáncer,M,sg,T,tener cáncer
+Oper1,have,career,tener,carrera,F,sg,T,tener una carrera
+Oper1,have,chance,tener,oportunidad,F,sg,T,tener una oportunidad
+Oper1,have,character,tener,carácter,M,sg,T,tener carácter
+Oper1,have,commitment,tener,compromiso,M,sg,T,tener un compromiso
+Oper1,have,concern,tener,preocupación,F,sg,T,tener una preocupación
+Oper1,have,consequence,tener,consecuencia,F,sg,T,tener una consecuencia
+Oper1,have,courage,tener,coraje,M,sg,T,tener coraje
+Oper1,owe,debt,tener,deuda,F,sg,T,tener una deuda
+Oper1,have,duty,tener,deber,M,sg,T,tener un deber
+Oper1,have,experience,tener,experiencia,F,sg,T,tener experiencia
+Oper1,have,faith,tener,fe,F,sg,T,tener fe
+Oper1,hold,fear,tener,miedo,M,sg,T,tener miedo
+Oper1,have,feeling,tener,sensación,F,sg,T,tener una sensación
+Oper1,have,flu,tener,gripe,F,sg,T,tener gripe
+Oper1,have,hope,tener,esperanza,F,sg,T,tener esperanzas
+Oper1,have,impact,tener,impacto,M,sg,T,tener un impacto
+Oper1,have,impression,tener,impresión,F,sg,T,tener una impresión
+Oper1,have,influence,tener,influencia,F,sg,T,tener influencia
+Oper1,have,information,tener,información,F,sg,T,tener información
+Oper1,have,intention,tener,intención,F,sg,T,tener intención
+Oper1,have,lead,tener,ventaja,F,sg,T,tener una ventaja
+Oper1,have,luck,tener,suerte,F,sg,T,tener suerte
+Oper1,have,need,tener,necesidad,F,sg,T,tener una necesidad
+Oper1,have,objection,tener,objeción,F,sg,T,tener una objeción
+Oper1,have,patience,tener,paciencia,F,sg,T,tener paciencia
+Oper1,have,pity,tener,lástima,F,sg,T,tener lástima
+Oper1,have,place,tener,lugar,M,sg,T,tener un lugar
+Oper1,have,plan,tener,plan,M,sg,T,tener un plan
+Oper1,have,popularity,tener,popularidad,F,sg,T,tener popularidad
+Oper1,hold,position,tener,posición,F,sg,T,tener una posición
+Oper1,have,power,tener,poder,M,sg,T,tener poder
+Oper1,have,precedence,tener,prioridad,F,sg,T,tener prioridad
+Oper1,have,purpose,tener,objetivo,M,sg,T,tener un objetivo
+Oper1,have,reason,tener,razón,F,sg,T,tener una razón
+Oper1,hold,record,tener,récord,M,sg,T,tener un récord
+Oper1,have,reputation,tener,reputación,F,sg,T,tener una reputación
+Oper1,bear,responsibility,tener,responsabilidad,F,sg,T,tener una responsabilidad
+Oper1,have,time,tener,tiempo,M,sg,T,tener tiempo
+Oper1,have,trouble,tener,problema,M,sg,T,tener problemas
+Oper1,have,upper hand,tener,control,M,sg,T,tener el control
+Oper1,hold,view,tener,visión,F,sg,T,tener una visión
+Oper1,take,bite,tomar,bocado,M,sg,T,tomar un bocado
+Oper1,take,breath,tomar,aliento,M,sg,T,tomar aliento
+Oper1,make,choice,tomar,decisión,F,sg,T,tomar una decisión
+Oper1,take,oath,tomar,juramento,M,sg,T,tomar juramento
+Oper1,take,precaution,tomar,precaución,F,sg,T,tomar una precaución
+no,give,book,dar,libro,M,sg,F,dar un libro
+no,give,notebook,dar,cuaderno,M,sg,F,dar un cuaderno
+no,give,pen,dar,bolígrafo,M,sg,F,dar un bolígrafo
+no,give,pencil,dar,lápiz,M,sg,F,dar un lápiz
+no,give,chair,dar,silla,F,sg,F,dar una silla
+no,give,key,dar,llave,F,sg,F,dar una llave
+no,give,cup,dar,taza,F,sg,F,dar una taza
+no,give,umbrella,dar,paraguas,M,sg,F,dar un paraguas
+no,give,bag,dar,bolsa,F,sg,F,dar una bolsa
+no,give,suitcase,dar,maleta,F,sg,F,dar una maleta
+no,give,bottle,dar,botella,F,sg,F,dar una botella
+no,give,glass,dar,vaso,M,sg,F,dar un vaso
+no,give,plate,dar,plato,M,sg,F,dar un plato
+no,give,spoon,dar,cuchara,F,sg,F,dar una cuchara
+no,give,fork,dar,tenedor,M,sg,F,dar un tenedor
+no,give,knife,dar,cuchillo,M,sg,F,dar un cuchillo
+no,give,box,dar,caja,F,sg,F,dar una caja
+no,give,package,dar,paquete,M,sg,F,dar un paquete
+no,give,envelope,dar,sobre,M,sg,F,dar un sobre
+no,give,letter,dar,carta,F,sg,F,dar una carta
+no,give,card,dar,tarjeta,F,sg,F,dar una tarjeta
+no,give,coin,dar,moneda,F,sg,F,dar una moneda
+no,give,banknote,dar,billete,M,sg,F,dar un billete
+no,give,ticket,dar,entrada,F,sg,F,dar una entrada
+no,give,gift,dar,regalo,M,sg,F,dar un regalo
+no,give,flower,dar,flor,F,sg,F,dar una flor
+no,give,ball,dar,pelota,F,sg,F,dar una pelota
+no,give,toy,dar,juguete,M,sg,F,dar un juguete
+no,give,T-shirt,dar,camiseta,F,sg,F,dar una camiseta
+no,give,photograph,dar,fotografía,F,sg,F,dar una fotografía
+no,make,table,hacer,mesa,F,sg,F,hacer una mesa
+no,make,chair,hacer,silla,F,sg,F,hacer una silla
+no,make,box,hacer,caja,F,sg,F,hacer una caja
+no,make,shelf,hacer,estantería,F,sg,F,hacer una estantería
+no,make,wardrobe,hacer,armario,M,sg,F,hacer un armario
+no,make,bench,hacer,banco,M,sg,F,hacer un banco
+no,make,bed,hacer,cama,F,sg,F,hacer una cama
+no,make,door,hacer,puerta,F,sg,F,hacer una puerta
+no,make,window,hacer,ventana,F,sg,F,hacer una ventana
+no,make,ladder,hacer,escalera,F,sg,F,hacer una escalera
+no,make,fence,hacer,valla,F,sg,F,hacer una valla
+no,make,cage,hacer,jaula,F,sg,F,hacer una jaula
+no,make,flowerpot,hacer,maceta,F,sg,F,hacer una maceta
+no,make,basket,hacer,cesta,F,sg,F,hacer una cesta
+no,make,bag,hacer,bolsa,F,sg,F,hacer una bolsa
+no,make,envelope,hacer,sobre,M,sg,F,hacer un sobre
+no,make,notebook,hacer,cuaderno,M,sg,F,hacer un cuaderno
+no,make,book,hacer,libro,M,sg,F,hacer un libro
+no,make,card,hacer,tarjeta,F,sg,F,hacer una tarjeta
+no,make,poster,hacer,cartel,M,sg,F,hacer un cartel
+no,make,mask,hacer,máscara,F,sg,F,hacer una máscara
+no,make,hat,hacer,sombrero,M,sg,F,hacer un sombrero
+no,make,shirt,hacer,camisa,F,sg,F,hacer una camisa
+no,make,skirt,hacer,falda,F,sg,F,hacer una falda
+no,make,dress,hacer,vestido,M,sg,F,hacer un vestido
+no,make,coat,hacer,abrigo,M,sg,F,hacer un abrigo
+no,make,scarf,hacer,bufanda,F,sg,F,hacer una bufanda
+no,make,blanket,hacer,manta,F,sg,F,hacer una manta
+no,make,curtain,hacer,cortina,F,sg,F,hacer una cortina
+no,make,rug,hacer,alfombra,F,sg,F,hacer una alfombra
+no,make,doll,hacer,muñeca,F,sg,F,hacer una muñeca
+no,make,toy,hacer,juguete,M,sg,F,hacer un juguete
+no,make,kite,hacer,cometa,F,sg,F,hacer una cometa
+no,make,boat,hacer,barco,M,sg,F,hacer un barco
+no,make,airplane,hacer,avión,M,sg,F,hacer un avión
+no,make,robot,hacer,robot,M,sg,F,hacer un robot
+no,make,statue,hacer,estatua,F,sg,F,hacer una estatua
+no,make,figurine,hacer,figura,F,sg,F,hacer una figura
+no,make,vase,hacer,jarrón,M,sg,F,hacer un jarrón
+no,make,cup,hacer,taza,F,sg,F,hacer una taza
+no,make,plate,hacer,plato,M,sg,F,hacer un plato
+no,make,spoon,hacer,cuchara,F,sg,F,hacer una cuchara
+no,make,candle,hacer,vela,F,sg,F,hacer una vela
+no,make,soap,hacer,jabón,M,sg,F,hacer un jabón
+no,make,necklace,hacer,collar,M,sg,F,hacer un collar
+no,make,bracelet,hacer,pulsera,F,sg,F,hacer una pulsera
+no,make,ring,hacer,anillo,M,sg,F,hacer un anillo
+no,make,key,hacer,llave,F,sg,F,hacer una llave
+no,make,coin,hacer,moneda,F,sg,F,hacer una moneda
+no,make,brick,hacer,ladrillo,M,sg,F,hacer un ladrillo
+no,receive,package,recibir,paquete,M,sg,F,recibir un paquete
+no,receive,box,recibir,caja,F,sg,F,recibir una caja
+no,receive,flower,recibir,flor,F,sg,F,recibir una flor
+no,receive,card,recibir,tarjeta,F,sg,F,recibir una tarjeta
+no,receive,photograph,recibir,fotografía,F,sg,F,recibir una fotografía
+no,have,book,tener,libro,M,sg,F,tener un libro
+no,have,notebook,tener,cuaderno,M,sg,F,tener un cuaderno
+no,have,pen,tener,bolígrafo,M,sg,F,tener un bolígrafo
+no,have,pencil,tener,lápiz,M,sg,F,tener un lápiz
+no,have,chair,tener,silla,F,sg,F,tener una silla
+no,have,table,tener,mesa,F,sg,F,tener una mesa
+no,have,key,tener,llave,F,sg,F,tener una llave
+no,have,cup,tener,taza,F,sg,F,tener una taza
+no,have,glass,tener,vaso,M,sg,F,tener un vaso
+no,have,plate,tener,plato,M,sg,F,tener un plato
+no,have,spoon,tener,cuchara,F,sg,F,tener una cuchara
+no,have,fork,tener,tenedor,M,sg,F,tener un tenedor
+no,have,bottle,tener,botella,F,sg,F,tener una botella
+no,have,box,tener,caja,F,sg,F,tener una caja
+no,have,bag,tener,bolsa,F,sg,F,tener una bolsa
+no,have,suitcase,tener,maleta,F,sg,F,tener una maleta
+no,have,umbrella,tener,paraguas,M,sg,F,tener un paraguas
+no,have,envelope,tener,sobre,M,sg,F,tener un sobre
+no,have,card,tener,tarjeta,F,sg,F,tener una tarjeta
+no,have,photograph,tener,fotografía,F,sg,F,tener una fotografía
+no,have,coin,tener,moneda,F,sg,F,tener una moneda
+no,have,ball,tener,pelota,F,sg,F,tener una pelota
+no,have,toy,tener,juguete,M,sg,F,tener un juguete
+no,have,doll,tener,muñeca,F,sg,F,tener una muñeca
+no,have,shirt,tener,camisa,F,sg,F,tener una camisa
+no,have,skirt,tener,falda,F,sg,F,tener una falda
+no,have,dress,tener,vestido,M,sg,F,tener un vestido
+no,have,coat,tener,abrigo,M,sg,F,tener un abrigo
+no,have,scarf,tener,bufanda,F,sg,F,tener una bufanda
+no,have,hat,tener,sombrero,M,sg,F,tener un sombrero
+no,have,blanket,tener,manta,F,sg,F,tener una manta
+no,have,curtain,tener,cortina,F,sg,F,tener una cortina
+no,have,rug,tener,alfombra,F,sg,F,tener una alfombra
+no,have,basket,tener,cesta,F,sg,F,tener una cesta
+no,have,flowerpot,tener,maceta,F,sg,F,tener una maceta
+no,have,vase,tener,jarrón,M,sg,F,tener un jarrón
+no,have,candle,tener,vela,F,sg,F,tener una vela
+no,have,necklace,tener,collar,M,sg,F,tener un collar
+no,have,bracelet,tener,pulsera,F,sg,F,tener una pulsera
+no,have,ring,tener,anillo,M,sg,F,tener un anillo
+no,have,mask,tener,máscara,F,sg,F,tener una máscara
+no,have,poster,tener,cartel,M,sg,F,tener un cartel
+no,have,statue,tener,estatua,F,sg,F,tener una estatua
+no,have,robot,tener,robot,M,sg,F,tener un robot
+no,have,bicycle,tener,bicicleta,F,sg,F,tener una bicicleta
+no,have,motorcycle,tener,motocicleta,F,sg,F,tener una motocicleta
+no,have,boat,tener,barco,M,sg,F,tener un barco
+no,have,ladder,tener,escalera,F,sg,F,tener una escalera
+no,have,computer,tener,ordenador,M,sg,F,tener un ordenador
+no,have,camera,tener,cámara,F,sg,F,tener una cámara
+no,take,book,tomar,libro,M,sg,F,tomar un libro
+no,take,box,tomar,caja,F,sg,F,tomar una caja
+no,take,key,tomar,llave,F,sg,F,tomar una llave
+no,take,bottle,tomar,botella,F,sg,F,tomar una botella
+no,take,umbrella,tomar,paraguas,M,sg,F,tomar un paraguas
