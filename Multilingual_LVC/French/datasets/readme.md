@@ -12,7 +12,7 @@ Scripts to generate sentences with nominal subjects are contained in sentence_ge
 
 ## Pronominal subjects: Dataset statistics
 
-### Verb Inventory
+### Verb Inventory -- to be done 
 
 | Verb | Collocation Objects | Concrete Objects | Total Objects |
 |---|---|---|---|
