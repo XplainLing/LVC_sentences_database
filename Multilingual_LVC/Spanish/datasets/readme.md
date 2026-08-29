@@ -3,12 +3,12 @@
 The Spanish sentence dataset contains: 
 - Passive sentences dataset
 - Active sentences dataset, pronominal subjects
-- Active sentences dataset, nominal subjects
 
-This repo contains automatically generated sentence datasets based on Light Verb Constructions (LVCs).
+This repo contains automatically generated sentence datasets with Light Verb Constructions (LVCs) and full-verb constructions.
 
-**IMPORTANT**: The sentences shared in this folder use pronominal subjects. 
-Scripts to generate sentences with nominal subjects are contained in [LVC_sentences_generation](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets/sentence_generation), which also contains all the scripts to reproduce the generation of this dataset.
+The sentences shared in this folder use pronominal subjects. 
+Scripts to to reproduce the generation of this dataset and to produce sentences with nominal subjects are contained in [sentence_generation](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets/sentence_generation) 
+
 
 ---
 
@@ -25,8 +25,8 @@ Scripts to generate sentences with nominal subjects are contained in [LVC_senten
 | dar | 30 | 30 | 60 |
 
 - Temporal specifications: 170 
-- Adverbial modifications: 35 
-- Tense specifications: 3 (past simple, future simple, past perfect)
+- Adverbial modifications: 15 
+- Tense specifications: 3 (future, present perfect, past perfect)
 - Voice specifications: 2 (active, passive)
 
 ---
@@ -38,28 +38,28 @@ Scripts to generate sentences with nominal subjects are contained in [LVC_senten
 
 Active sentences are collected in six files, differing for tense and adverb specifications. 
 
-- LVC_active_past_simple_no_adverbs.csv - example: In early January they made a decision.
-- LVC_active_past_simple_with_adverbs.csv - example: In early January they finally made a decision.
+- LVC_active_future_no_adverbs.csv - example: A principios de enero, tomarán una decisión.
+- LVC_active_future_with_adverbs.csv - example: A principios de enero, tomarán ciertamente una decisión.
 
-- LVC_active_future_simple_no_adverbs.csv  - example:  In early January they will make a decision.
-- LVC_active_future_simple_with_adverbs.csv  - example: In early January they will finally make a decision.
+- LVC_active_present_perfect_no_adverbs.csv  - example:  A principios de enero, han tomado una decisión.
+- LVC_active_present_perfect_with_adverbs.csv  - example: A principios de enero, han ciertamente tomado una decisión.
   
-- LVC_active_past_perfect_no_adverbs.csv - example: In early January they had made a decision.
-- LVC_active_past_perfect_with_adverbs.csv - example: In early January they had finally made a decision.
+- LVC_ES_active_past_perfect_no_adverbs.csv - example: A principios de enero, habían tomado una decisión.
+- LVC_ES_active_past_perfect_with_adverbs.csv - example: A principios de enero, habían ciertamente tomado una decisión.
 
 
 ### Passive sentences
 
 Passive sentences are collected in six files, differing for tense and adverb specifications. 
 
-- LVC_passive_past_simple_no_adverbs.csv - example: In early January a decision was made.
-- LVC_passive_past_simple_with_adverbs.csv - example: In early January a decision was finally made.
+- LVC_passive_future_no_adverbs.csv - example: A principios de enero, una decisión será tomada.
+- LVC_passive_future_with_adverbs.csv - example: A principios de enero, una decisión será ciertamente tomada.
 
-- LVC_passive_future_simple_no_adverbs.csv - example: In early January a decision will be made.
-- LVC_passive_future_simple_with_adverbs.csv - example: In early January a decision will finally be made.
-
-- LVC_passive_past_perfect_no_adverbs.csv - example: In early January a decision had been made.
-- LVC_passive_past_perfect_with_adverbs.csv - example: In early January a decision had been finally made.
+- LVC_passive_present_perfect_no_adverbs.csv - example: A principios de enero, una decisión ha aparentemente sido tomada.
+- LVC_passive_present_perfect_with_adverbs.csv - example: A principios de enero, una decisión ha ciertamente sido tomada.
+- 
+- LVC_passive_past_perfect_no_adverbs.csv - example: A principios de enero, una decisión había sido tomada.
+- LVC_passive_past_perfect_with_adverbs.csv - example: A principios de enero, una decisión había ciertamente sido tomada.
 
 
 ## Main columns
@@ -73,9 +73,10 @@ Passive sentences are collected in six files, differing for tense and adverb spe
 | `time_spec` | Temporal phrase |
 | `verb_object` | phrase including the verb, object, and determiner where needed |
 | `verb` | Verb |
-| `object` | Object noun |
+| `object` | Object noun (sentence subject in passive)|
+| `num_object_fr` | Inflected number (`sg` / `pl`) of the object noun (sentence subject in passive) |
+| `gen_object_fr` | Inflected gender (`F` / `M`) of the object noun (sentence subject in passive) |
 | `has_determiner` | Determiner before object, if none reports 'no' |
-| `obj_number` | Object number (`sg` / `pl`) |
 | `collocation` |is a collocation (T or F) |
 | `LF` | Lexical Function label |
 
@@ -90,3 +91,4 @@ Passive sentences are collected in six files, differing for tense and adverb spe
 | `subject_number` | Subject number (`sg` / `pl`) |
 | `subject_det` | Subject determiner |
 | `subject_det_type` | Determiner type |
+
