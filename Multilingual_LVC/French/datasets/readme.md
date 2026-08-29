@@ -1,14 +1,14 @@
 # LVC Sentence Datasets: French
 
-The English sentence dataset contains: 
+The French sentence dataset contains: 
 - Passive sentences dataset
 - Active sentences dataset, pronominal subjects
-- Active sentences dataset, nominal subjects
 
-This repo contains automatically generated sentence datasets based on Light Verb Constructions (LVCs).
+This repo contains automatically generated sentence datasets with Light Verb Constructions (LVCs) and full-verb constructions.
 
-**IMPORTANT**: The sentences shared in this folder use pronominal subjects. 
-Scripts to generate sentences with nominal subjects are contained in [LVC_sentences_generation](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/English/datasets/sentence_generation), which also contains all the scripts to reproduce the generation of this dataset.
+The sentences shared in this folder use pronominal subjects. 
+Scripts to to reproduce the generation of this dataset and to produce sentences with nominal subjects are contained in [sentence_generation](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/French/datasets/sentence_generation)
+
 
 ---
 
