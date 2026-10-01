@@ -11,3 +11,7 @@ LVC sentences database is available in:
 - [Spanish](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/Spanish)
   
 
+This dataset is freely available, please acknowledge any use by citing:
+Franzon, F., Gómez, N. R., & Wanner, L. (2026). Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models. _EMNLP 2026_ - 
+[Preprint](https://arxiv.org/pdf/2606.05087)
+
