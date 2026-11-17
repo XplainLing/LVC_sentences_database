@@ -11,7 +11,7 @@ LVC sentences database is available in:
 - [Spanish](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/Spanish)
 
 - [German](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/German)
-- 
+
 - [Italian](https://github.com/XplainLing/LVC_sentences_database/tree/main/Multilingual_LVC/Italian)
 
 ### Reference
