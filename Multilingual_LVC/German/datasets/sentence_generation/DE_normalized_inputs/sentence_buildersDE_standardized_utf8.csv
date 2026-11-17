@@ -1,0 +1,181 @@
+﻿time_specs,poss_masc,poss_fem,poss_neut,poss_pl,det_masc,det_fem,det_neut,det_pl,quant,det_poss_tf,subject_sg,gender_sbj,subject_pl_noun,subject_pl_pron,subjects_pron,adverbs
+Anfang Januar,mein,meine,mein,meine,der,die,das,die,einige,F,Schauspieler,M,Schauspieler,sie,ich,anscheinend
+Mitte Januar,dein,deine,dein,deine,ein,eine,ein,,mehrere,F,Schauspielerin,F,Schauspielerinnen,,du,auch
+Ende Januar,sein,seine,sein,seine,dieser,diese,dieses,,einige,T,Berater,M,Berater,,er,besonders
+Anfang Februar,ihr,ihre,ihr,ihre,jener,jene,jenes,,viele,T,Beraterin,F,Beraterinnen,,sie,bestimmt
+Mitte Februar,unser,unsere,unser,unsere,,,,,wenige,F,Kandidat,M,Kandidaten,,wir,deutlich
+Ende Februar,euer,eure,euer,eure,,,,,,F,Kandidatin,F,Kandidatinnen,,ihr,doch
+Anfang März,,,,,,,,,,T,Architekt,M,Architekten,,,eigentlich
+Mitte März,,,,,,,,,,T,Architektin,F,Architektinnen,,,einfach
+Ende März,,,,,,,,,,T,Assistent,M,Assistenten,,,eben
+Anfang April,,,,,,,,,,T,Assistentin,F,Assistentinnen,,,fast
+Mitte April,,,,,,,,,,F,Athlet,M,Athleten,,,gern
+Ende April,,,,,,,,,,F,Athletin,F,Athletinnen,,,gerne
+Anfang Mai,,,,,,,,,,F,Verkäufer,M,Verkäufer,,,glücklicher
+Mitte Mai,,,,,,,,,,F,Verkäuferin,F,Verkäuferinnen,,,hauptsächlich
+Ende Mai,,,,,,,,,,T,Tante,F,Tanten,,,kaum
+Anfang Juni,,,,,,,,,,F,Bäcker,M,Bäcker,,,leider
+Mitte Juni,,,,,,,,,,F,Bäckerin,F,Bäckerinnen,,,meistens
+Ende Juni,,,,,,,,,,T,Friseur,M,Friseure,,,natürlich
+Anfang Juli,,,,,,,,,,T,Friseurin,F,Friseurinnen,,,normalerweise
+Mitte Juli,,,,,,,,,,F,Jugend,F,,,,nur
+Ende Juli,,,,,,,,,,T,Bruder,M,Brüder,,,offenbar
+Anfang August,,,,,,,,,,T,Schwester,F,Schwestern,,,offensichtlich
+Mitte August,,,,,,,,,,T,Kapitän,M,Kapitäne,,,offenkundig
+Ende August,,,,,,,,,,T,Kapitänin,F,Kapitäninnen,,,praktisch
+Anfang September,,,,,,,,,,F,Kassierer,M,Kassierer,,,scheinbar
+Mitte September,,,,,,,,,,F,Kassiererin,F,Kassiererinnen,,,sicher
+Ende September,,,,,,,,,,T,Präsident,M,Präsidenten,,,sicherlich
+Anfang Oktober,,,,,,,,,,T,Präsidentin,F,Präsidentinnen,,,selbst
+Mitte Oktober,,,,,,,,,,F,Chef,M,Chefs,,,sogar
+Ende Oktober,,,,,,,,,,F,Chefin,F,Chefinnen,,,tatsächlich
+Anfang November,,,,,,,,,,F,Bürger,M,Bürger,,,teilweise
+Mitte November,,,,,,,,,,F,Bürgerin,F,Bürgerinnen,,,trotzdem
+Ende November,,,,,,,,,,T,Klassenkamerad,M,Klassenkameraden,,,überhaupt
+Anfang Dezember,,,,,,,,,,T,Klassenkameradin,F,Klassenkameradinnen,,,unbedingt
+Mitte Dezember,,,,,,,,,,F,Büroangestellter,M,Büroangestellte,,,ungefähr
+Ende Dezember,,,,,,,,,,F,Büroangestellte,F,Büroangestellte,,,ungern
+Während des Wochenendes,,,,,,,,,,T,Kunde,M,Kunden,,,unvermeidlich
+Vor dem Wochenende,,,,,,,,,,T,Kundin,F,Kundinnen,,,vermutlich
+Nach dem Wochenende,,,,,,,,,,T,Kollege,M,Kollegen,,,vielleicht
+Während der Nacht,,,,,,,,,,T,Kollegin,F,Kolleginnen,,,wahrscheinlich
+Vor der Nacht,,,,,,,,,,T,Partner,M,Partner,,,wirklich
+Nach der Nacht,,,,,,,,,,T,Partnerin,F,Partnerinnen,,,wohl
+Während des Nachmittags,,,,,,,,,,T,Berater,M,Berater,,,
+Vor dem Nachmittag,,,,,,,,,,T,Beraterin,F,Beraterinnen,,,
+Nach dem Nachmittag,,,,,,,,,,T,Cousin,M,Cousins,,,
+Während der Nacht,,,,,,,,,,T,Cousine,F,Cousinen,,,
+Vor der Nacht,,,,,,,,,,F,Designer,M,Designer,,,
+Nach der Nacht,,,,,,,,,,F,Designerin,F,Designerinnen,,,
+Während des Morgens,,,,,,,,,,F,Detektiv,M,Detektive,,,
+Vor dem Morgen,,,,,,,,,,F,Detektivin,F,Detektivinnen,,,
+Nach dem Morgen,,,,,,,,,,F,Direktor,M,Direktoren,,,
+Während der Zeremonie,,,,,,,,,,F,Direktorin,F,Direktorinnen,,,
+Vor der Zeremonie,,,,,,,,,,T,Arzt,M,Ärzte,,,
+Nach der Zeremonie,,,,,,,,,,T,Fahrer,M,Fahrer,,,
+Während der Konferenz,,,,,,,,,,T,Fahrerin,F,Fahrerinnen,,,
+Vor der Konferenz,,,,,,,,,,F,Angestellter,M,Angestellte,,,
+Nach der Konferenz,,,,,,,,,,F,Angestellte,F,Angestellte,,,
+Während des Kongresses,,,,,,,,,,F,Ingenieur,M,Ingenieure,,,
+Vor dem Kongress,,,,,,,,,,F,Ingenieurin,F,Ingenieurinnen,,,
+Nach dem Kongress,,,,,,,,,,F,Prüfer,M,Prüfer,,,
+Während der Feier,,,,,,,,,,F,Prüferin,F,Prüferinnen,,,
+Vor der Feier,,,,,,,,,,F,Landwirt,M,Landwirte,,,
+Nach der Feier,,,,,,,,,,F,Landwirtin,F,Landwirtinnen,,,
+Während der Probe,,,,,,,,,,T,Vater,M,Väter,,,
+Vor der Probe,,,,,,,,,,F,Feuerwehrmann,M,Feuerwehrmänner,,,
+Nach der Probe,,,,,,,,,,F,Feuerwehrfrau,F,Feuerwehrfrauen,,,
+Während der Ferien,,,,,,,,,,T,Freund,M,Freunde,,,
+Vor den Ferien,,,,,,,,,,T,Freundin,F,Freundinnen,,,
+Nach den Ferien,,,,,,,,,,F,Gärtner,M,Gärtner,,,
+Während der freien Tage,,,,,,,,,,F,Gärtnerin,F,Gärtnerinnen,,,
+Vor den freien Tagen,,,,,,,,,,T,Tochter,F,Töchter,,,
+Nach den freien Tagen,,,,,,,,,,T,Großvater,M,Großväter,,,
+Während der Sitzung,,,,,,,,,,T,Großmutter,F,Großmütter,,,
+Vor der Sitzung,,,,,,,,,,F,Wächter,M,Wächter,,,
+Nach der Sitzung,,,,,,,,,,F,Wächterin,F,Wächterinnen,,,
+Vor der Abreise,,,,,,,,,,T,Gast,M,Gäste,,,
+Nach der Abreise,,,,,,,,,,T,Gästin,F,Gästinnen,,,
+Vor der Ankunft,,,,,,,,,,T,Gastgeberin,F,Gastgeberinnen,,,
+Nach der Ankunft,,,,,,,,,,T,Gastgeberin,F,Gastgeberinnen,,,
+Direkt vor dem Frühstück,,,,,,,,,,T,Ehemann,M,Ehemänner,,,
+Direkt nach dem Frühstück,,,,,,,,,,F,Praktikant,M,Praktikanten,,,
+Direkt vor dem Mittagessen,,,,,,,,,,F,Praktikantin,F,Praktikantinnen,,,
+Direkt nach dem Mittagessen,,,,,,,,,,F,Interviewer,M,Interviewer,,,
+Direkt vor dem Abendessen,,,,,,,,,,F,Interviewerin,F,Interviewerinnen,,,
+Direkt nach dem Abendessen,,,,,,,,,,F,Forscher,M,Forscher,,,
+Direkt vor dem Abendessen,,,,,,,,,,F,Forscherin,F,Forscherinnen,,,
+Direkt nach dem Abendessen,,,,,,,,,,F,Journalist,M,Journalisten,,,
+Direkt vor dem Brunch,,,,,,,,,,F,Journalistin,F,Journalistinnen,,,
+Direkt nach dem Brunch,,,,,,,,,,F,Richter,M,Richter,,,
+Direkt vor dem Dessert,,,,,,,,,,F,Richterin,F,Richterinnen,,,
+Direkt nach dem Dessert,,,,,,,,,,T,Anwalt,M,Anwälte,,,
+Direkt vor Mitternacht,,,,,,,,,,T,Anwältin,F,Anwältinnen,,,
+Direkt nach Mitternacht,,,,,,,,,,F,Führungskraft,F,Führungskräfte,,,
+Direkt vor Sonnenaufgang,,,,,,,,,,F,Führungskraft,F,Führungskräfte,,,
+Direkt nach Sonnenaufgang,,,,,,,,,,F,Bibliothekar,M,Bibliothekare,,,
+Direkt vor Sonnenuntergang,,,,,,,,,,F,Bibliothekarin,F,Bibliothekarinnen,,,
+Direkt nach Sonnenuntergang,,,,,,,,,,T,Mechaniker,M,Mechaniker,,,
+Direkt vor dem Schlafengehen,,,,,,,,,,T,Mechanikerin,F,Mechanikerinnen,,,
+Direkt nach dem Schlafengehen,,,,,,,,,,F,Mitglied,N,Mitglieder,,,
+Lange vor dem Frühstück,,,,,,,,,,T,Mutter,F,Mütter,,,
+Lange nach dem Frühstück,,,,,,,,,,F,Musiker,M,Musiker,,,
+Lange vor dem Mittagessen,,,,,,,,,,F,Musikerin,F,Musikerinnen,,,
+Lange nach dem Mittagessen,,,,,,,,,,T,Nachbar,M,Nachbarn,,,
+Lange vor dem Abendessen,,,,,,,,,,T,Nachbarin,F,Nachbarinnen,,,
+Lange nach dem Abendessen,,,,,,,,,,T,Krankenpfleger,M,Krankenpfleger,,,
+Lange vor dem Abendessen,,,,,,,,,,T,Krankenpflegerin,F,Krankenpflegerinnen,,,
+Lange nach dem Abendessen,,,,,,,,,,F,Beobachter,M,Beobachter,,,
+Lange vor dem Brunch,,,,,,,,,,F,Beobachterin,F,Beobachterinnen,,,
+Lange nach dem Brunch,,,,,,,,,,F,Agent,M,Agenten,,,
+Lange vor Mitternacht,,,,,,,,,,F,Agentin,F,Agentinnen,,,
+Lange nach Mitternacht,,,,,,,,,,F,Organisator,M,Organisatoren,,,
+Lange vor Sonnenaufgang,,,,,,,,,,F,Organisatorin,F,Organisatorinnen,,,
+Lange nach Sonnenaufgang,,,,,,,,,,F,Teilnehmer,M,Teilnehmer,,,
+Lange vor Sonnenuntergang,,,,,,,,,,F,Teilnehmerin,F,Teilnehmerinnen,,,
+Lange nach Sonnenuntergang,,,,,,,,,,T,Partner,M,Partner,,,
+Lange vor dem Schlafengehen,,,,,,,,,,T,Partnerin,F,Partnerinnen,,,
+Lange nach dem Schlafengehen,,,,,,,,,,F,Passagier,M,Passagiere,,,
+Während dieses Zeitraums,,,,,,,,,,F,Passagierin,F,Passagierinnen,,,
+Nach diesem Zeitraum,,,,,,,,,,T,Patient,M,Patienten,,,
+Vor diesem Zeitraum,,,,,,,,,,T,Patientin,F,Patientinnen,,,
+Während dieses Jahres,,,,,,,,,,F,Fußgänger,M,Fußgänger,,,
+Vor diesem Jahr,,,,,,,,,,F,Fußgängerin,F,Fußgängerinnen,,,
+Nach diesem Jahr,,,,,,,,,,F,Pilot,M,Piloten,,,
+Während der Reise,,,,,,,,,,F,Pilotin,F,Pilotinnen,,,
+Nach der Reise,,,,,,,,,,F,Polizist,M,Polizisten,,,
+Vor der Reise,,,,,,,,,,F,Polizistin,F,Polizistinnen,,,
+Lange vor Januar,,,,,,,,,,T,Lehrer,M,Lehrer,,,
+Lange nach Januar,,,,,,,,,,T,Lehrerin,F,Lehrerinnen,,,
+Lange vor Februar,,,,,,,,,,F,Leser,M,Leser,,,
+Lange nach Februar,,,,,,,,,,F,Leserin,F,Leserinnen,,,
+Lange vor März,,,,,,,,,,F,Rezeptionist,M,Rezeptionisten,,,
+Lange nach März,,,,,,,,,,F,Rezeptionistin,F,Rezeptionistinnen,,,
+Lange vor April,,,,,,,,,,T,Vertreter,M,Vertreter,,,
+Lange nach April,,,,,,,,,,T,Vertreterin,F,Vertreterinnen,,,
+Lange vor Mai,,,,,,,,,,F,Forscher,M,Forscher,,,
+Lange nach Mai,,,,,,,,,,F,Forscherin,F,Forscherinnen,,,
+Lange vor Juni,,,,,,,,,,T,Bewohner,M,Bewohner,,,
+Lange nach Juni,,,,,,,,,,T,Bewohnerin,F,Bewohnerinnen,,,
+Lange vor Juli,,,,,,,,,,T,Mitbewohner,M,Mitbewohner,,,
+Lange nach Juli,,,,,,,,,,T,Mitbewohnerin,F,Mitbewohnerinnen,,,
+Lange vor August,,,,,,,,,,F,Matrose,M,Matrosen,,,
+Lange nach August,,,,,,,,,,F,Matrosin,F,Matrosinnen,,,
+Lange vor September,,,,,,,,,,F,Wissenschaftler,M,Wissenschaftler,,,
+Lange nach September,,,,,,,,,,F,Wissenschaftlerin,F,Wissenschaftlerinnen,,,
+Lange vor Oktober,,,,,,,,,,T,Sekretär,M,Sekretäre,,,
+Lange nach Oktober,,,,,,,,,,T,Sekretärin,F,Sekretärinnen,,,
+Lange vor November,,,,,,,,,,F,Soldat,M,Soldaten,,,
+Lange nach November,,,,,,,,,,F,Soldatin,F,Soldatinnen,,,
+Lange vor Dezember,,,,,,,,,,F,Redner,M,Redner,,,
+Lange nach Dezember,,,,,,,,,,F,Rednerin,F,Rednerinnen,,,
+Während der Einführung,,,,,,,,,,F,Ausländer,M,Ausländer,,,
+Während der Orientierungsveranstaltung,,,,,,,,,,F,Ausländerin,F,Ausländerinnen,,,
+Während der Besprechung,,,,,,,,,,F,Student,M,Studenten,,,
+Während des Gesprächs,,,,,,,,,,F,Studentin,F,Studentinnen,,,
+Während der Konferenz,,,,,,,,,,T,Aufseher,M,Aufseher,,,
+Während des Alumni-Treffens,,,,,,,,,,T,Aufseherin,F,Aufseherinnen,,,
+Während der Eröffnung,,,,,,,,,,F,Überlebender,M,Überlebende,,,
+Während der Abschlussfeier,,,,,,,,,,F,Überlebende,F,Überlebende,,,
+Während des Abschlusses,,,,,,,,,,T,Lehrer,M,Lehrer,,,
+Während des Endes,,,,,,,,,,T,Lehrerin,F,Lehrerinnen,,,
+Während des Beginns,,,,,,,,,,T,Teamkollege,M,Teamkollegen,,,
+Von Anfang an,,,,,,,,,,T,Teamkollegin,F,Teamkolleginnen,,,
+Während der Zeremonie,,,,,,,,,,F,Techniker,M,Techniker,,,
+Während des Empfangs,,,,,,,,,,F,Technikerin,F,Technikerinnen,,,
+Am Bahnhof,,,,,,,,,,F,Reisender,M,Reisende,,,
+Am Flughafen,,,,,,,,,,F,Reisende,F,Reisende,,,
+Im Büro,,,,,,,,,,T,Onkel,M,Onkel,,,
+Im Krankenhaus,,,,,,,,,,T,Besucher,M,Besucher,,,
+Am Anfang,,,,,,,,,,T,Besucherin,F,Besucherinnen,,,
+Am Ende,,,,,,,,,,F,Freiwilliger,M,Freiwillige,,,
+,,,,,,,,,,F,Freiwillige,F,Freiwillige,,,
+,,,,,,,,,,T,Ehemann,M,Ehemänner,,,
+,,,,,,,,,,T,Ehefrau,F,Ehefrauen,,,
+,,,,,,,,,,T,Zeuge,M,Zeugen,,,
+,,,,,,,,,,T,Zeugin,F,Zeuginnen,,,
+,,,,,,,,,,F,Arbeiter,M,Arbeiter,,,
+,,,,,,,,,,F,Arbeiterin,F,Arbeiterinnen,,,
+,,,,,,,,,,T,Ärztin,F,Ärztinnen,,,
+,,,,,,,,,,T,Frau,F,Frauen,,,
+,,,,,,,,,,T,Mann,M,Männer,,,
