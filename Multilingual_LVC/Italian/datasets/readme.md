@@ -40,8 +40,7 @@ Active sentences are collected in three released files, differing for tense spec
 - `LVC_IT_active_present_perfect_no_adverbs.csv` - example: *All'inizio di gennaio, hanno preso una decisione.*  
 - `LVC_IT_active_past_perfect_no_adverbs.csv` - example: *All'inizio di gennaio, avevano preso una decisione.*  
 
-Files with adverbs are **not released in the repository**, because they are too large.  
-However, they can be generated with the scripts in `sentence_generation`.
+Files with adverbs are **not released in the repository**, due to their large size; however, they can be generated with the scripts in `sentence_generation`.
 
 Examples of the corresponding adverbial sentences are:
 
@@ -57,8 +56,7 @@ Passive sentences are collected in three released files, differing for tense spe
 - `LVC_IT_passive_present_perfect_no_adverbs.csv` - example: *All'inizio di gennaio, è stata presa una decisione.*  
 - `LVC_IT_passive_past_perfect_no_adverbs.csv` - example: *All'inizio di gennaio, era stata presa una decisione.*  
 
-Files with adverbs are **not released in the repository**, because they are too large.  
-However, they can be generated with the scripts in `sentence_generation`.
+Files with adverbs are **not released in the repository**, due to their size; however, they can be generated with the scripts in `sentence_generation`.
 
 Examples of the corresponding adverbial passive sentences are:
 
