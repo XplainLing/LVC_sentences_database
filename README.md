@@ -18,5 +18,5 @@ LVC sentences database is available in:
 This dataset is freely available, please acknowledge any use by citing:
 
 Franzon, F., Gómez, N. R., & Wanner, L. (2026). Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models. _EMNLP 2026_ - 
-[Preprint](https://arxiv.org/pdf/2606.05087)
+[Preprint](https://arxiv.org/pdf/2606.05087) - [Poster](https://github.com/XplainLing/communications/blob/main/Posters/poster_light_full_verb.pdf)
 
