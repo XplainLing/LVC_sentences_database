@@ -1,0 +1,71 @@
+verb,person,future_active,present_perfect_active,past_perfect_active,future_passive,present_perfect_passive,past_perfect_passive
+prendere,io,prenderò,ho preso,avevo preso,sarò preso,sono stato preso,ero stato preso
+prendere,io_f,prenderò,ho preso,avevo preso,sarò presa,sono stata presa,ero stata presa
+prendere,tu,prenderai,hai preso,avevi preso,sarai preso,sei stato preso,eri stato preso
+prendere,tu_f,prenderai,hai preso,avevi preso,sarai presa,sei stata presa,eri stata presa
+prendere,lui,prenderà,ha preso,aveva preso,sarà preso,è stato preso,era stato preso
+prendere,lei,prenderà,ha preso,aveva preso,sarà presa,è stata presa,era stata presa
+prendere,Lei_formal,prenderà,ha preso,aveva preso,sarà presa,è stata presa,era stata presa
+prendere,Lei_formal_m,prenderà,ha preso,aveva preso,sarà preso,è stato preso,era stato preso
+prendere,noi,prenderemo,abbiamo preso,avevamo preso,saremo presi,siamo stati presi,eravamo stati presi
+prendere,noi_f,prenderemo,abbiamo preso,avevamo preso,saremo prese,siamo state prese,eravamo state prese
+prendere,voi,prenderete,avete preso,avevate preso,sarete presi,siete stati presi,eravate stati presi
+prendere,voi_f,prenderete,avete preso,avevate preso,sarete prese,siete state prese,eravate state prese
+prendere,loro,prenderanno,hanno preso,avevano preso,saranno presi,sono stati presi,erano stati presi
+prendere,loro_f,prenderanno,hanno preso,avevano preso,saranno prese,sono state prese,erano state prese
+avere,io,avrò,ho avuto,avevo avuto,,,
+avere,io_f,avrò,ho avuto,avevo avuto,,,
+avere,tu,avrai,hai avuto,avevi avuto,,,
+avere,tu_f,avrai,hai avuto,avevi avuto,,,
+avere,lui,avrà,ha avuto,aveva avuto,,,
+avere,lei,avrà,ha avuto,aveva avuto,,,
+avere,Lei_formal,avrà,ha avuto,aveva avuto,,,
+avere,Lei_formal_m,avrà,ha avuto,aveva avuto,,,
+avere,noi,avremo,abbiamo avuto,avevamo avuto,,,
+avere,noi_f,avremo,abbiamo avuto,avevamo avuto,,,
+avere,voi,avrete,avete avuto,avevate avuto,,,
+avere,voi_f,avrete,avete avuto,avevate avuto,,,
+avere,loro,avranno,hanno avuto,avevano avuto,,,
+avere,loro_f,avranno,hanno avuto,avevano avuto,,,
+dare,io,darò,ho dato,avevo dato,sarò dato,sono stato dato,ero stato dato
+dare,io_f,darò,ho dato,avevo dato,sarò data,sono stata data,ero stata data
+dare,tu,darai,hai dato,avevi dato,sarai dato,sei stato dato,eri stato dato
+dare,tu_f,darai,hai dato,avevi dato,sarai data,sei stata data,eri stata data
+dare,lui,darà,ha dato,aveva dato,sarà dato,è stato dato,era stato dato
+dare,lei,darà,ha dato,aveva dato,sarà data,è stata data,era stata data
+dare,Lei_formal,darà,ha dato,aveva dato,sarà data,è stata data,era stata data
+dare,Lei_formal_m,darà,ha dato,aveva dato,sarà dato,è stato dato,era stato dato
+dare,noi,daremo,abbiamo dato,avevamo dato,saremo dati,siamo stati dati,eravamo stati dati
+dare,noi_f,daremo,abbiamo dato,avevamo dato,saremo date,siamo state date,eravamo state date
+dare,voi,darete,avete dato,avevate dato,sarete dati,siete stati dati,eravate stati dati
+dare,voi_f,darete,avete dato,avevate dato,sarete date,siete state date,eravate state date
+dare,loro,daranno,hanno dato,avevano dato,saranno dati,sono stati dati,erano stati dati
+dare,loro_f,daranno,hanno dato,avevano dato,saranno date,sono state date,erano state date
+fare,io,farò,ho fatto,avevo fatto,sarò fatto,sono stato fatto,ero stato fatto
+fare,io_f,farò,ho fatto,avevo fatto,sarò fatta,sono stata fatta,ero stata fatta
+fare,tu,farai,hai fatto,avevi fatto,sarai fatto,sei stato fatto,eri stato fatto
+fare,tu_f,farai,hai fatto,avevi fatto,sarai fatta,sei stata fatta,eri stata fatta
+fare,lui,farà,ha fatto,aveva fatto,sarà fatto,è stato fatto,era stato fatto
+fare,lei,farà,ha fatto,aveva fatto,sarà fatta,è stata fatta,era stata fatta
+fare,Lei_formal,farà,ha fatto,aveva fatto,sarà fatta,è stata fatta,era stata fatta
+fare,Lei_formal_m,farà,ha fatto,aveva fatto,sarà fatto,è stato fatto,era stato fatto
+fare,noi,faremo,abbiamo fatto,avevamo fatto,saremo fatti,siamo stati fatti,eravamo stati fatti
+fare,noi_f,faremo,abbiamo fatto,avevamo fatto,saremo fatte,siamo state fatte,eravamo state fatte
+fare,voi,farete,avete fatto,avevate fatto,sarete fatti,siete stati fatti,eravate stati fatti
+fare,voi_f,farete,avete fatto,avevate fatto,sarete fatte,siete state fatte,eravate state fatte
+fare,loro,faranno,hanno fatto,avevano fatto,saranno fatti,sono stati fatti,erano stati fatti
+fare,loro_f,faranno,hanno fatto,avevano fatto,saranno fatte,sono state fatte,erano state fatte
+ricevere,io,riceverò,ho ricevuto,avevo ricevuto,sarò ricevuto,sono stato ricevuto,ero stato ricevuto
+ricevere,io_f,riceverò,ho ricevuto,avevo ricevuto,sarò ricevuta,sono stata ricevuta,ero stata ricevuta
+ricevere,tu,riceverai,hai ricevuto,avevi ricevuto,sarai ricevuto,sei stato ricevuto,eri stato ricevuto
+ricevere,tu_f,riceverai,hai ricevuto,avevi ricevuto,sarai ricevuta,sei stata ricevuta,eri stata ricevuta
+ricevere,lui,riceverà,ha ricevuto,aveva ricevuto,sarà ricevuto,è stato ricevuto,era stato ricevuto
+ricevere,lei,riceverà,ha ricevuto,aveva ricevuto,sarà ricevuta,è stata ricevuta,era stata ricevuta
+ricevere,Lei_formal,riceverà,ha ricevuto,aveva ricevuto,sarà ricevuta,è stata ricevuta,era stata ricevuta
+ricevere,Lei_formal_m,riceverà,ha ricevuto,aveva ricevuto,sarà ricevuto,è stato ricevuto,era stato ricevuto
+ricevere,noi,riceveremo,abbiamo ricevuto,avevamo ricevuto,saremo ricevuti,siamo stati ricevuti,eravamo stati ricevuti
+ricevere,noi_f,riceveremo,abbiamo ricevuto,avevamo ricevuto,saremo ricevute,siamo state ricevute,eravamo state ricevute
+ricevere,voi,riceverete,avete ricevuto,avevate ricevuto,sarete ricevuti,siete stati ricevuti,eravate stati ricevuti
+ricevere,voi_f,riceverete,avete ricevuto,avevate ricevuto,sarete ricevute,siete state ricevute,eravate state ricevute
+ricevere,loro,riceveranno,hanno ricevuto,avevano ricevuto,saranno ricevuti,sono stati ricevuti,erano stati ricevuti
+ricevere,loro_f,riceveranno,hanno ricevuto,avevano ricevuto,saranno ricevute,sono state ricevute,erano state ricevute

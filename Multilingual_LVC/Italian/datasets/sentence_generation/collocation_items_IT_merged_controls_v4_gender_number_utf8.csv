@@ -1,0 +1,371 @@
+LF,keyverb_eng,verb_en,verb_it,object_it,gen_object_it,num_obj_it,collocation,full_expression
+Oper1,decision,make ,prendere,decisione,F,sg,T,prendere una decisione
+Oper1,precautions,take ,prendere,precauzioni,F,pl,T,prendere precauzioni
+Oper1,measurement,take  ,prendere,misura,F,pl,T,prendere le misure
+Oper1,turn,take ,prendere,svolta,F,sg,T,prendere una svolta
+Oper1,vacations,take ,prendere,vacanze,F,pl,T,prendere le vacanze
+Oper1,whack,fetch ,prendere,botta,F,sg,T,prendere una botta
+Oper2,abortion,have ,avere,aborto,M,sg,T,avere un aborto
+Oper1,access,have ,avere,accesso,M,sg,T,avere  accesso
+Oper1,appointment,have ,avere,appuntamento,M,sg,T,avere  un appuntamento
+Oper1,benefit,have ,avere,beneficio,M,sg,T,avere un beneficio
+Oper1,cancer,have ,avere,cancro,M,sg,T,avere il cancro
+Oper1,character,have ,avere,carattere,M,sg,T,avere carattere
+Oper1,consequence,have ,avere,conseguenza,F,sg,T,avere una conseguenza
+Oper1,conversation,have ,avere,conversazione,F,sg,T,avere una conversazione
+Oper1,courage,have ,avere,coraggio,M,sg,T,avere coraggio
+Oper1,credibility,have ,avere,credibilità,F,sg,T,avere credibilità
+Oper1,breakdown,have ,avere,crollo,M,sg,T,avere un crollo
+Oper1,debt,owe ,avere,debito,M,sg,T,avere un debito
+Oper1,trouble,have ,avere,difficoltà,F,pl,T,avere difficoltà
+Oper1,dignity,possess ,avere,dignità,F,sg,T,avere dignità
+Oper1,direction,have ,avere,direzione,F,sg,T,avere una direzione
+Oper1,right,have ,avere,diritto,M,sg,T,avere un diritto
+Oper1,argument,have ,avere,discussione,F,sg,T,avere  una discussione
+Oper1,ache,have ,avere,dolore,M,sg,T,avere  un dolore
+Oper1,doubt,have ,avere,dubbi,M,pl,T,avere dubbi
+Oper1,experience,have ,avere,esperienza,F,sg,T,avere esperienza
+Oper1,charm,have ,avere,fascino,M,sg,T,avere fascino
+Oper1,fever,run ,avere,febbre,F,sg,T,avere la febbre
+Oper1,faith,have ,avere,fede,F,sg,T,avere fede
+Oper1,luck,have ,avere,fortuna,F,sg,T,avere fortuna
+Oper1,taste,have ,avere,gusto,M,sg,T,avere gusto
+Oper1,illusion,have ,avere,illusione,F,sg,T,avere un'illusione
+Oper1,commitment,have ,avere,impegno,M,sg,T,avere un impegno
+Oper1,impression,have ,avere,impressione,F,sg,T,avere un'impressione
+Oper1,accident,have ,avere,incidente,M,sg,T,avere  un incidente
+Oper1,flu,have ,avere,influenza,F,sg,T,avere l'influenza
+Oper1,information,have ,avere,informazione,F,pl,T,avere informazioni
+Oper1,degree,have ,avere,laurea,F,sg,T,avere una laurea
+Oper1,ties,have ,avere,legami,M,pl,T,avere legami
+Oper1,majority,have ,avere,maggioranza,F,sg,T,avere la maggioranza
+Oper1,objection,have ,avere,obiezione,F,sg,T,avere un'obiezione
+Oper1,opinion,have ,avere,opinione,F,sg,T,avere un'opinione
+Oper1,view,hold ,avere,opinione,F,sg,T,avere un'opinione
+Oper1,patience,have ,avere,pazienza,F,sg,T,avere pazienza
+Oper1,plan,have ,avere,piano,M,sg,T,avere un piano
+Oper1,place,have ,avere,posto,M,sg,T,avere un posto
+Oper1,power,have ,avere,potere,M,sg,T,avere potere
+Oper1,precedence,have ,avere,precedenza,F,sg,T,avere la precedenza
+Oper1,concern,have ,avere,preoccupazione,F,sg,T,avere una preoccupazione
+Oper1,standing,have ,avere,prestigio,M,sg,T,avere prestigio
+Oper2,problem,have ,avere,problema,M,sg,T,avere un problema
+Oper2,audience,have ,avere,pubblico,M,sg,T,avere un pubblico
+Oper1,cold,have ,avere,raffreddore,M,sg,T,avere il raffreddore
+Oper1,relationship,have ,avere,relazione,F,sg,T,avere una relazione
+Oper1,reputation,have ,avere,reputazione,F,sg,T,avere una reputazione
+Oper1,responsibility,carry ,avere,responsabilità,F,sg,T,avere la responsabilità
+Oper1,respect,have ,avere,rispetto,M,sg,T,avere rispetto
+Oper2,result,have ,avere,risultato,M,sg,T,avere un risultato
+Oper1,purpose,have ,avere,scopo,M,sg,T,avere uno scopo
+Oper2,support,have ,avere,sostegno,M,sg,T,avere sostegno
+Oper1,hope,have ,avere,speranze,F,pl,T,avere speranze
+Oper1,time,have ,avere,tempo,M,sg,T,avere tempo
+Oper1,fears,hold ,avere,timori,M,pl,T,avere timori
+Oper1,cough,have ,avere,tosse,F,sg,T,avere la tosse
+Oper1,lead,have ,avere,vantaggio,M,sg,T,avere un vantaggio
+Oper1,voice,have ,avere,voce,F,sg,T,avere voce
+Oper1,hug,give,dare,abbraccio,M,sg,T,dare un abbraccio
+Oper1,warning,deliver ,dare,avvertimento,M,sg,T,dare un avvertimento
+Oper1,kiss,give,dare,bacio,M,sg,T,dare un bacio
+Oper1,welcome,give,dare,benvenuto,M,sg,T,dare il benvenuto
+Oper1,kick,give,dare,calcio,M,sg,T,dare un calcio
+Oper1,concert,present ,dare,concerto,M,sg,T,dare un concerto
+Oper1,comfort,give,dare,conforto,M,sg,T,dare conforto
+Oper1,tip,give,dare,consiglio,M,sg,T,dare un consiglio
+Oper1,contribution,make ,dare,contributo,M,sg,T,dare un contributo
+Oper1,description,give,dare,descrizione,F,sg,T,dare una descrizione
+Oper1,indication,give,dare,indicazione,F,sg,T,dare un'indicazione
+Oper1,lesson,give,dare,lezione,F,sg,T,dare una lezione
+Oper1,bite,take ,dare,morso,M,sg,T,dare un morso
+Oper1,look,give,dare,occhiata,F,sg,T,dare un'occhiata
+Oper1,order,give,dare,ordine,M,sg,T,dare un ordine
+Oper1,try,give,dare,possibilità,F,sg,T,dare una possibilità
+Oper1,protection,give,dare,protezione,F,sg,T,dare protezione
+Oper1,punch,give,dare,pugno,M,sg,T,dare un pugno
+Oper1,reception,give,dare,ricevimento,M,sg,T,dare un ricevimento
+Oper1,recognition,give,dare,riconoscimento,M,sg,T,dare riconoscimento
+Oper1,response,give,dare,risposta,F,sg,T,dare una risposta
+Oper1,support,give,dare,sostegno,M,sg,T,dare sostegno
+Oper1,explanation,give,dare,spiegazione,F,sg,T,dare una spiegazione
+Oper1,suggestion,give,dare,suggerimento,M,sg,T,dare un suggerimento
+Oper1,touch,put ,dare,tocco,M,sg,T,dare un tocco
+Oper1,ultimatum,give,dare,ultimatum,M,sg,T,dare un ultimatum
+Oper1,business,do ,fare,affari,M,pl,T,fare affari
+Oper1,announcement,make ,fare,annuncio,M,sg,T,fare  un annuncio
+Oper1,appearance,make ,fare,apparizione,F,sg,T,fare  un’apparizione
+Oper1,bath,have ,fare,bagno,M,sg,T,fare un bagno
+Oper1,joke,make ,fare,battuta,F,sg,T,fare una battuta
+Oper1,clean-up,do ,fare,bonifica,F,sg,T,fare una bonifica
+Oper1,toast,introduce ,fare,brindisi,M,sg,T,fare un brindisi
+Oper1,change,make ,fare,cambiamento,M,sg,T,fare un cambiamento
+Oper1,cartwheel,turn ,fare,capriola,F,sg,T,fare una capriola
+Oper1,sommersault,do ,fare,capriola,F,sg,T,fare una capriola
+Oper1,career,lead ,fare,carriera,F,sg,T,fare carriera
+Oper1,comment,make ,fare,commento,M,sg,T,fare un commento
+Oper1,concession,make ,fare,concessione,F,sg,T,fare una concessione
+Oper1,diagnosis,make ,fare,diagnosi,F,sg,T,fare una diagnosi
+Oper1,statement,make ,fare,dichiarazione,F,sg,T,fare una dichiarazione
+Oper1,speech,make ,fare,discorso,M,sg,T,fare un discorso
+Oper1,error,make ,fare,errore,M,sg,T,fare un errore
+Oper1,mistake,make ,fare,errore,M,sg,T,fare un errore
+Oper1,gesture,make ,fare,gesto,M,sg,T,fare un gesto
+Oper1,pledge,take ,fare,giuramento,M,sg,T,fare un giuramento
+Oper1,bow,give,fare,inchino,M,sg,T,fare un inchino
+Oper1,foray,make ,fare,incursione,F,sg,T,fare un'incursione
+Oper1,injection,jab,fare,iniezione,F,sg,T,fare un'iniezione
+Oper1,intervention,make ,fare,intervento,M,sg,T,fare un intervento
+Oper1,interview,do ,fare,intervista,F,sg,T,fare un'intervista
+Oper2,interview,do ,fare,intervista,F,sg,T,fare un'intervista
+Oper1,assumption,have ,fare,ipotesi,F,sg,T,fare un’ipotesi
+Oper1,guess,make ,fare,ipotesi,F,sg,T,fare un'ipotesi
+Oper1,bequest,make ,fare,lascito,M,sg,T,fare un lascito
+Oper1,maintenance,do ,fare,manutenzione,F,sg,T,fare manutenzione
+Oper1,improvement,make ,fare,miglioramento,M,sg,T,fare un miglioramento
+Oper1,move,make ,fare,mossa,F,sg,T,fare una mossa
+Oper1,movement,make ,fare,movimento,M,sg,T,fare un movimento
+Oper1,order,place ,fare,ordine,M,sg,T,fare un ordine
+Oper1,observation,make ,fare,osservazione,F,sg,T,fare un'osservazione
+Oper1,stroll,take ,fare,passeggiata,F,sg,T,fare una passeggiata
+Oper1,step,take ,fare,passo,M,sg,T,fare un passo
+Oper1,nap,take ,fare,pisolino,M,sg,T,fare un pisolino
+Oper1,prediction,make ,fare,previsione,F,sg,T,fare una previsione
+Oper1,gains,make ,fare,progressi,M,pl,T,fare progressi
+Oper1,headway,make ,fare,progresso,M,pl,T,fare progressi
+Oper1,promise,make ,fare,promessa,F,sg,T,fare una promessa
+Oper1,proposal,make ,fare,proposta,F,sg,T,fare una proposta
+Oper1,recommendation,make ,fare,raccomandazione,F,sg,T,fare una raccomandazione
+Oper1,complaint,register ,fare,reclamo,M,sg,T,fare un reclamo
+Oper1,breath,draw ,fare,respiro,M,sg,T,fare un respiro
+Oper1,search,do ,fare,ricerca,F,sg,T,fare una ricerca
+Oper1,demand,make ,fare,richiesta,F,sg,T,fare una richiesta
+Oper1,request,make ,fare,richiesta,F,sg,T,fare una richiesta
+Oper1,noise,make ,fare,rumore,M,sg,T,fare rumore
+Oper1,jump,make ,fare,salto,M,sg,T,fare un salto
+Oper1,dash,make ,fare,scatto,M,sg,T,fare uno scatto
+Oper1,choice,make ,fare,scelta,F,sg,T,fare una scelta
+Oper1,tantrum,have ,fare,scenata,F,sg,T,fare una scenata
+Oper1,bet,have ,fare,scommessa,F,sg,T,fare una scommessa
+Oper1,discovery,make ,fare,scoperta,F,sg,T,fare una scoperta
+Oper1,effort,make ,fare,sforzo,M,sg,T,fare uno sforzo
+Oper1,grimace,make ,fare,smorfia,F,sg,T,fare una smorfia
+Oper1,poll,take ,fare,sondaggio,M,sg,T,fare un sondaggio
+Oper1,study,do ,fare,studio,M,sg,T,fare uno studio
+Oper1,call,make ,fare,telefonata,F,sg,T,fare una telefonata
+Oper1,attempt,make ,fare,tentativo,M,sg,T,fare un tentativo
+Oper1,test,run ,fare,test,M,sg,T,fare un test
+Oper1,tour,make ,fare,tour,M,sg,T,fare un tour
+Oper1,dip,take ,fare,tuffo,M,sg,T,fare un tuffo
+Oper1,plunge,take ,fare,tuffo,M,sg,T,fare un tuffo
+Oper1,journey,make ,fare,viaggio,M,sg,T,fare un viaggio
+Oper1,trip,take ,fare,viaggio,M,sg,T,fare un viaggio
+Oper1,visit,make ,fare,visita,F,sg,T,fare una visita
+Oper2,hug,get ,ricevere,abbraccio,M,sg,T,ricevere un abbraccio da
+Oper2,help,receive ,ricevere,aiuto,M,sg,T,ricevere aiuto
+Oper2,applause,receive ,ricevere,applausi,M,pl,T,ricevere applausi
+Oper2,call,get ,ricevere,chiamata,F,sg,T,ricevere una chiamata
+Oper2,compliment,get ,ricevere,complimento,M,sg,T,ricevere un complimento
+Oper2,sentence,receive ,ricevere,condanna,F,sg,T,ricevere una condanna
+Oper2,coverage,receive ,ricevere,copertura,F,sg,T,ricevere copertura
+Oper2,criticism,receive ,ricevere,critiche,F,pl,T,ricevere critiche
+Oper2,praise,win ,ricevere,elogio,M,sg,T,ricevere un elogio
+Oper2,indication,get ,ricevere,indicazione,F,sg,T,ricevere un'indicazione
+Oper2,invitation,receive  ,ricevere,invito,M,sg,T,ricevere un invito
+Oper2,threat,receive ,ricevere,minaccia,F,sg,T,ricevere una minaccia
+Oper2,fine,be hit ,ricevere,multa,F,sg,T,ricevere una multa
+Oper3,offer,get ,ricevere,offerta,F,sg,T,ricevere un'offerta
+Oper3,order,receive ,ricevere,ordine,M,sg,T,ricevere un ordine
+Oper2,ovation,receive ,ricevere,ovazione,F,sg,T,ricevere un’ovazione
+Oper3,proposal,get ,ricevere,proposta,F,sg,T,ricevere una proposta
+Oper2,review,get ,ricevere,recensione,F,pl,T,ricevere recensioni
+Oper2,complaint,get ,ricevere,reclamo,M,sg,T,ricevere un reclamo
+Oper3,gift,receive ,ricevere,regalo,M,sg,T,ricevere un regalo
+Oper2,request,receive ,ricevere,richiesta,F,sg,T,ricevere una richiesta
+Oper2,feedback,get ,ricevere,riscontro,M,sg,T,ricevere un riscontro
+Oper3,transplant,have ,ricevere,trapianto,M,sg,T,ricevere un trapianto
+Oper2,visit,receive ,ricevere,visita,F,sg,T,ricevere una visita
+no,book,take,prendere,libro,M,sg,F,prendere un libro
+no,key,take,prendere,chiave,F,sg,F,prendere una chiave
+no,bottle,take,prendere,bottiglia,F,sg,F,prendere una bottiglia
+no,apple,take,prendere,mela,F,sg,F,prendere una mela
+no,cup,take,prendere,tazza,F,sg,F,prendere una tazza
+no,pen,take,prendere,penna,F,sg,F,prendere una penna
+no,parcel,have,avere,pacco,M,sg,F,avere un pacco
+no,flower,have,avere,fiore,M,sg,F,avere un fiore
+no,letter,have,avere,lettera,F,sg,F,avere una lettera
+no,envelope,have,avere,busta,F,sg,F,avere una busta
+no,photograph,have,avere,foto,F,sg,F,avere una foto
+no,chocolate,have,avere,cioccolatino,M,sg,F,avere un cioccolatino
+no,box,have,avere,scatola,F,sg,F,avere una scatola
+no,crate,have,avere,cassa,F,sg,F,avere una cassa
+no,book,have,avere,libro,M,sg,F,avere un libro
+no,postcard,have,avere,cartolina,F,sg,F,avere una cartolina
+no,bouquet of flowers,have,avere,bouquet,M,sg,F,avere un bouquet
+no,sample,have,avere,campione,M,sg,F,avere un campione
+no,product,have,avere,prodotto,M,sg,F,avere un prodotto
+no,key,have,avere,chiave,F,sg,F,avere una chiave
+no,ticket,have,avere,biglietto,M,sg,F,avere un biglietto
+no,suitcase,have,avere,valigia,F,sg,F,avere una valigia
+no,newspaper,have,avere,giornale,M,sg,F,avere un giornale
+no,bottle,have,avere,bottiglia,F,sg,F,avere una bottiglia
+no,folder,have,avere,cartella,F,sg,F,avere una cartella
+no,packaging,have,avere,confezione,F,sg,F,avere una confezione
+no,apple,have,avere,mela,F,sg,F,avere una mela
+no,cup,have,avere,tazza,F,sg,F,avere una tazza
+no,pen,have,avere,penna,F,sg,F,avere una penna
+no,toy,have,avere,giocattolo,M,sg,F,avere un giocattolo
+no,umbrella,have,avere,ombrello,M,sg,F,avere un ombrello
+no,cushion,have,avere,cuscino,M,sg,F,avere un cuscino
+no,chair,have,avere,sedia,F,sg,F,avere una sedia
+no,table,have,avere,tavolo,M,sg,F,avere un tavolo
+no,lamp,have,avere,lampada,F,sg,F,avere una lampada
+no,mirror,have,avere,specchio,M,sg,F,avere uno specchio
+no,notebook,have,avere,quaderno,M,sg,F,avere un quaderno
+no,backpack,have,avere,zaino,M,sg,F,avere uno zaino
+no,computer,have,avere,computer,M,sg,F,avere un computer
+no,telephone,have,avere,telefono,M,sg,F,avere un telefono
+no,watch,have,avere,orologio,M,sg,F,avere un orologio
+no,bicycle,have,avere,bicicletta,F,sg,F,avere una bicicletta
+no,car,have,avere,automobile,F,sg,F,avere un'automobile
+no,camera,have,avere,macchina,F,sg,F,avere una macchina
+no,television,have,avere,televisore,M,sg,F,avere un televisore
+no,radio,have,avere,radio,F,sg,F,avere una radio
+no,glass,have,avere,bicchiere,M,sg,F,avere un bicchiere
+no,plate,have,avere,piatto,M,sg,F,avere un piatto
+no,spoon,have,avere,cucchiaio,M,sg,F,avere un cucchiaio
+no,fork,have,avere,forchetta,F,sg,F,avere una forchetta
+no,knife,have,avere,coltello,M,sg,F,avere un coltello
+no,t-shirt,have,avere,maglietta,F,sg,F,avere una maglietta
+no,jacket,have,avere,giacca,F,sg,F,avere una giacca
+no,shirt,have,avere,camicia,F,sg,F,avere una camicia
+no,hat,have,avere,cappello,M,sg,F,avere un cappello
+no,shoe,have,avere,scarpa,F,sg,F,avere una scarpa
+no,wallet,have,avere,portafoglio,M,sg,F,avere un portafoglio
+no,toothbrush,have,avere,spazzolino,M,sg,F,avere uno spazzolino
+no,comb,have,avere,pettine,M,sg,F,avere un pettine
+no,towel,have,avere,asciugamano,M,sg,F,avere un asciugamano
+no,blanket,have,avere,coperta,F,sg,F,avere una coperta
+no,sofa,have,avere,divano,M,sg,F,avere un divano
+no,vase,have,avere,vaso,M,sg,F,avere un vaso
+no,basket,have,avere,cestino,M,sg,F,avere un cestino
+no,helmet,have,avere,casco,M,sg,F,avere un casco
+no,ruler,have,avere,righello,M,sg,F,avere un righello
+no,parcel,give,dare,pacco,M,sg,F,dare un pacco
+no,flower,give,dare,fiore,M,sg,F,dare un fiore
+no,letter,give,dare,lettera,F,sg,F,dare una lettera
+no,envelope,give,dare,busta,F,sg,F,dare una busta
+no,photograph,give,dare,foto,F,sg,F,dare una foto
+no,chocolate,give,dare,cioccolatino,M,sg,F,dare un cioccolatino
+no,box,give,dare,scatola,F,sg,F,dare una scatola
+no,crate,give,dare,cassa,F,sg,F,dare una cassa
+no,book,give,dare,libro,M,sg,F,dare un libro
+no,postcard,give,dare,cartolina,F,sg,F,dare una cartolina
+no,bouquet of flowers,give,dare,bouquet,M,sg,F,dare un bouquet
+no,sample,give,dare,campione,M,sg,F,dare un campione
+no,product,give,dare,prodotto,M,sg,F,dare un prodotto
+no,key,give,dare,chiave,F,sg,F,dare una chiave
+no,ticket,give,dare,biglietto,M,sg,F,dare un biglietto
+no,suitcase,give,dare,valigia,F,sg,F,dare una valigia
+no,newspaper,give,dare,giornale,M,sg,F,dare un giornale
+no,bottle,give,dare,bottiglia,F,sg,F,dare una bottiglia
+no,folder,give,dare,cartella,F,sg,F,dare una cartella
+no,packaging,give,dare,confezione,F,sg,F,dare una confezione
+no,apple,give,dare,mela,F,sg,F,dare una mela
+no,cup,give,dare,tazza,F,sg,F,dare una tazza
+no,pen,give,dare,penna,F,sg,F,dare una penna
+no,toy,give,dare,giocattolo,M,sg,F,dare un giocattolo
+no,umbrella,give,dare,ombrello,M,sg,F,dare un ombrello
+no,cushion,give,dare,cuscino,M,sg,F,dare un cuscino
+no,cake,make,fare,torta,F,sg,F,fare una torta
+no,tart,make,fare,crostata,F,sg,F,fare una crostata
+no,pizza,make,fare,pizza,F,sg,F,fare una pizza
+no,focaccia,make,fare,focaccia,F,sg,F,fare una focaccia
+no,sandwich,make,fare,panino,M,sg,F,fare un panino
+no,club sandwich,make,fare,tramezzino,M,sg,F,fare un tramezzino
+no,toast,make,fare,toast,M,sg,F,fare un toast
+no,flatbread,make,fare,piadina,F,sg,F,fare una piadina
+no,bruschetta,make,fare,bruschetta,F,sg,F,fare una bruschetta
+no,canapé,make,fare,tartina,F,sg,F,fare una tartina
+no,omelette,make,fare,frittata,F,sg,F,fare una frittata
+no,French omelette,make,fare,omelette,F,sg,F,fare un'omelette
+no,crepe,make,fare,crespella,F,sg,F,fare una crespella
+no,lasagna,make,fare,lasagna,F,sg,F,fare una lasagna
+no,risotto,make,fare,risotto,M,sg,F,fare un risotto
+no,minestrone,make,fare,minestra,F,sg,F,fare una minestra
+no,soup,make,fare,zuppa,F,sg,F,fare una zuppa
+no,salad,make,fare,insalata,F,sg,F,fare un'insalata
+no,fruit salad,make,fare,macedonia,F,sg,F,fare una macedonia
+no,pudding,make,fare,budino,M,sg,F,fare un budino
+no,tiramisu,make,fare,tiramisù,M,sg,F,fare un tiramisù
+no,ring cake,make,fare,ciambella,F,sg,F,fare una ciambella
+no,muffin,make,fare,muffin,M,sg,F,fare un muffin
+no,biscuit,make,fare,biscotto,M,sg,F,fare un biscotto
+no,waffle,make,fare,gnocchi,M,pl,F,fare gli gnocchi
+no,pancake,make,fare,pancake,M,sg,F,fare un pancake
+no,meatball,make,fare,polpetta,F,sg,F,fare una polpetta
+no,hamburger,make,fare,hamburger,M,sg,F,fare un hamburger
+no,rice ball,make,fare,arancino,M,sg,F,fare un arancino
+no,fried rice croquette,make,fare,supplì,M,sg,F,fare un supplì
+no,dumpling,make,fare,brasato,M,sg,F,fare un brasato
+no,raviolo,make,fare,raviolo,M,sg,F,fare un raviolo
+no,tortellino,make,fare,tortellino,M,sg,F,fare un tortellino
+no,ice cream,make,fare,gelato,M,sg,F,fare un gelato
+no,sorbet,make,fare,sorbetto,M,sg,F,fare un sorbetto
+no,granita,make,fare,granita,F,sg,F,fare una granita
+no,ice lolly,make,fare,ghiacciolo,M,sg,F,fare un ghiacciolo
+no,jam,make,fare,marmellata,F,sg,F,fare una marmellata
+no,sauce,make,fare,salsa,F,sg,F,fare una salsa
+no,coffee,make,fare,caffè,M,sg,F,fare un caffè
+no,cappuccino,make,fare,cappuccino,M,sg,F,fare un cappuccino
+no,tea,make,fare,tè,M,sg,F,fare un tè
+no,herbal tea,make,fare,tisana,F,sg,F,fare una tisana
+no,lemonade,make,fare,limonata,F,sg,F,fare una limonata
+no,freshly squeezed juice,make,fare,spremuta,F,sg,F,fare una spremuta
+no,smoothie,make,fare,frullato,M,sg,F,fare un frullato
+no,milkshake,make,fare,frappè,M,sg,F,fare un frappè
+no,cocktail,make,fare,cocktail,M,sg,F,fare un cocktail
+no,hot chocolate,make,fare,cioccolata calda,F,sg,F,fare una cioccolata calda
+no,bracelet,make,fare,braccialetto,M,sg,F,fare un braccialetto
+no,necklace,make,fare,collana,F,sg,F,fare una collana
+no,ring,make,fare,anello,M,sg,F,fare un anello
+no,candle,make,fare,candela,F,sg,F,fare una candela
+no,soap bar,make,fare,saponetta,F,sg,F,fare una saponetta
+no,mask,make,fare,maschera,F,sg,F,fare una maschera
+no,doll,make,fare,bambola,F,sg,F,fare una bambola
+no,hand puppet,make,fare,burattino,M,sg,F,fare un burattino
+no,marionette,make,fare,marionetta,F,sg,F,fare una marionetta
+no,origami,make,fare,origami,M,sg,F,fare un origami
+no,paper airplane,make,fare,aeroplanino di carta,M,sg,F,fare un aeroplanino di carta
+no,paper boat,make,fare,barchetta di carta,F,sg,F,fare una barchetta di carta
+no,scarf,make,fare,sciarpa,F,sg,F,fare una sciarpa
+no,hat,make,fare,cappello,M,sg,F,fare un cappello
+no,bag,make,fare,borsa,F,sg,F,fare una borsa
+no,vase,make,fare,vaso,M,sg,F,fare un vaso
+no,figurine,make,fare,statuetta,F,sg,F,fare una statuetta
+no,snowman,make,fare,pupazzo di neve,M,sg,F,fare un pupazzo di neve
+no,sandcastle,make,fare,castello di sabbia,M,sg,F,fare un castello di sabbia
+no,garland,make,fare,ghirlanda,F,sg,F,fare una ghirlanda
+no,parcel,receive,ricevere,pacco,M,sg,F,ricevere un pacco
+no,flower,receive,ricevere,fiore,M,sg,F,ricevere un fiore
+no,letter,receive,ricevere,lettera,F,sg,F,ricevere una lettera
+no,envelope,receive,ricevere,busta,F,sg,F,ricevere una busta
+no,photograph,receive,ricevere,foto,F,sg,F,ricevere una foto
+no,chocolate,receive,ricevere,cioccolatino,M,sg,F,ricevere un cioccolatino
+no,box,receive,ricevere,scatola,F,sg,F,ricevere una scatola
+no,crate,receive,ricevere,cassa,F,sg,F,ricevere una cassa
+no,book,receive,ricevere,libro,M,sg,F,ricevere un libro
+no,postcard,receive,ricevere,cartolina,F,sg,F,ricevere una cartolina
+no,bouquet of flowers,receive,ricevere,bouquet,M,sg,F,ricevere un bouquet
+no,sample,receive,ricevere,campione,M,sg,F,ricevere un campione
+no,product,receive,ricevere,prodotto,M,sg,F,ricevere un prodotto
+no,key,receive,ricevere,chiave,F,sg,F,ricevere una chiave
+no,ticket,receive,ricevere,biglietto,M,sg,F,ricevere un biglietto
+no,suitcase,receive,ricevere,valigia,F,sg,F,ricevere una valigia
+no,newspaper,receive,ricevere,giornale,M,sg,F,ricevere un giornale
+no,bottle,receive,ricevere,bottiglia,F,sg,F,ricevere una bottiglia
+no,folder,receive,ricevere,cartella,F,sg,F,ricevere una cartella
+no,packaging,receive,ricevere,confezione,F,sg,F,ricevere una confezione
+no,apple,receive,ricevere,mela,F,sg,F,ricevere una mela
+no,cup,receive,ricevere,tazza,F,sg,F,ricevere una tazza
+no,pen,receive,ricevere,penna,F,sg,F,ricevere una penna
+no,toy,receive,ricevere,giocattolo,M,sg,F,ricevere un giocattolo
